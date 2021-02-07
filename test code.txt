@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void){
+	int n = 100;
+	printf("점수 : %d",n);
+	return 0;
+}
